@@ -6,7 +6,7 @@
 https://colab.research.google.com/drive/1TMZlb_Go3yltlDF9LnrqdCk85UtRy7dB?usp=sharing#scrollTo=DJn80zjQ8Boz
 
 ## Link to Document:
-[NLP Report] (/Users/bikashadhikari/Desktop/Bikash /Data Science/Natural Language Processing/NLP_SignLangDect/NLP_Signlanguagedetection/NLP REPORT ON SIGN LANGUAGE .pdf)
+[NLP Report] (https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP%20REPORT%20ON%20SIGN%20LANGUAGE%20.pdf)
 
 #**Importing the Required Libraries**
 
@@ -1052,19 +1052,19 @@ for filename in files:
 
 
     
-![png](NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_files/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_1.png)
+![png](https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_1.png)
     
 
 
 
     
-![png](NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_files/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_2.png)
+![png](https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_2.png)
     
 
 
 
     
-![png](NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_files/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_3.png)
+![png](https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_3.png)
     
 
 
