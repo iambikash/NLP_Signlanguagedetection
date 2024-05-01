@@ -6,7 +6,7 @@
 https://colab.research.google.com/drive/1TMZlb_Go3yltlDF9LnrqdCk85UtRy7dB?usp=sharing#scrollTo=DJn80zjQ8Boz
 
 ## Link to Document:
-[NLP Report] (https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP%20REPORT%20ON%20SIGN%20LANGUAGE%20.pdf)
+[NLP Report](https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP%20REPORT%20ON%20SIGN%20LANGUAGE%20.pdf)
 
 #**Importing the Required Libraries**
 
@@ -1048,12 +1048,6 @@ for filename in files:
 
     <ipython-input-152-da4aaa4a73c2>:25: DeprecationWarning: ANTIALIAS is deprecated and will be removed in Pillow 10 (2023-07-01). Use LANCZOS or Resampling.LANCZOS instead.
       img = img.resize((new_width, new_height), Image.ANTIALIAS)
-
-
-
-    
-![png](https://github.com/iambikash/NLP_Signlanguagedetection/blob/main/NLP_Sign_Language_Detection_using_YoloV8_%26_Vision_Transformer_and_translating_to_Nepali_39_1.png)
-    
 
 
 
